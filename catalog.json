@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "catalog_version": 1,
+  "updated_at": "2026-11-15",
+  "subjects": [
+    {"id":"physiology","name":"Physiology","book":"Guyton and Hall","topics":[]},
+    {"id":"anatomy","name":"Anatomy","book":"Snell's Anatomy","topics":[]},
+    {"id":"pathology","name":"Pathology","book":"Robbins Pathology","topics":[]},
+    {"id":"biochemistry","name":"Biochemistry","book":"Lippincott","topics":[]},
+    {"id":"pharmacology","name":"Pharmacology","book":"Lippincott","topics":[]},
+    {"id":"histology","name":"Histology","book":"Junqueira","topics":[]},
+    {"id":"microbiology","name":"Microbiology","book":"Jawetz","topics":[]}
+  ]
+}
