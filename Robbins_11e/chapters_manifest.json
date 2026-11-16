@@ -1,0 +1,156 @@
+[
+  {
+    "chapter": 1,
+    "title": "Cell Injury, Cell Death, and Adaptations",
+    "source_pdf_pages": "14-39",
+    "page_count": 26,
+    "file": "01_Cell_Injury_Cell_Death_and_Adaptations.pdf"
+  },
+  {
+    "chapter": 2,
+    "title": "Inflammation and Repair",
+    "source_pdf_pages": "40-73",
+    "page_count": 34,
+    "file": "02_Inflammation_and_Repair.pdf"
+  },
+  {
+    "chapter": 3,
+    "title": "Hemodynamic Disorders, Thromboembolism, and Shock",
+    "source_pdf_pages": "74-99",
+    "page_count": 26,
+    "file": "03_Hemodynamic_Disorders_Thromboembolism_and_Shock.pdf"
+  },
+  {
+    "chapter": 4,
+    "title": "Genetic and Pediatric Diseases",
+    "source_pdf_pages": "100-151",
+    "page_count": 52,
+    "file": "04_Genetic_and_Pediatric_Diseases.pdf"
+  },
+  {
+    "chapter": 5,
+    "title": "Diseases of the Immune System",
+    "source_pdf_pages": "152-210",
+    "page_count": 59,
+    "file": "05_Diseases_of_the_Immune_System.pdf"
+  },
+  {
+    "chapter": 6,
+    "title": "Neoplasia",
+    "source_pdf_pages": "211-261",
+    "page_count": 51,
+    "file": "06_Neoplasia.pdf"
+  },
+  {
+    "chapter": 7,
+    "title": "Environmental and Nutritional Diseases",
+    "source_pdf_pages": "262-303",
+    "page_count": 42,
+    "file": "07_Environmental_and_Nutritional_Diseases.pdf"
+  },
+  {
+    "chapter": 8,
+    "title": "Blood Vessels",
+    "source_pdf_pages": "304-340",
+    "page_count": 37,
+    "file": "08_Blood_Vessels.pdf"
+  },
+  {
+    "chapter": 9,
+    "title": "Heart",
+    "source_pdf_pages": "341-378",
+    "page_count": 38,
+    "file": "09_Heart.pdf"
+  },
+  {
+    "chapter": 10,
+    "title": "Hematopoietic and Lymphoid Systems",
+    "source_pdf_pages": "379-439",
+    "page_count": 61,
+    "file": "10_Hematopoietic_and_Lymphoid_Systems.pdf"
+  },
+  {
+    "chapter": 11,
+    "title": "Lung",
+    "source_pdf_pages": "440-495",
+    "page_count": 56,
+    "file": "11_Lung.pdf"
+  },
+  {
+    "chapter": 12,
+    "title": "Kidney",
+    "source_pdf_pages": "496-534",
+    "page_count": 39,
+    "file": "12_Kidney.pdf"
+  },
+  {
+    "chapter": 13,
+    "title": "Oral Cavity and Gastrointestinal Tract",
+    "source_pdf_pages": "535-591",
+    "page_count": 57,
+    "file": "13_Oral_Cavity_and_Gastrointestinal_Tract.pdf"
+  },
+  {
+    "chapter": 14,
+    "title": "Liver and Gallbladder",
+    "source_pdf_pages": "592-635",
+    "page_count": 44,
+    "file": "14_Liver_and_Gallbladder.pdf"
+  },
+  {
+    "chapter": 15,
+    "title": "Pancreas",
+    "source_pdf_pages": "636-648",
+    "page_count": 13,
+    "file": "15_Pancreas.pdf"
+  },
+  {
+    "chapter": 16,
+    "title": "Male Genital System and Lower Urinary Tract",
+    "source_pdf_pages": "649-676",
+    "page_count": 28,
+    "file": "16_Male_Genital_System_and_Lower_Urinary_Tract.pdf"
+  },
+  {
+    "chapter": 17,
+    "title": "Female Genital System and Breast",
+    "source_pdf_pages": "677-719",
+    "page_count": 43,
+    "file": "17_Female_Genital_System_and_Breast.pdf"
+  },
+  {
+    "chapter": 18,
+    "title": "Endocrine System",
+    "source_pdf_pages": "720-766",
+    "page_count": 47,
+    "file": "18_Endocrine_System.pdf"
+  },
+  {
+    "chapter": 19,
+    "title": "Bones, Joints, and Soft Tissue Tumors",
+    "source_pdf_pages": "767-803",
+    "page_count": 37,
+    "file": "19_Bones_Joints_and_Soft_Tissue_Tumors.pdf"
+  },
+  {
+    "chapter": 20,
+    "title": "Peripheral Nerves and Muscles",
+    "source_pdf_pages": "804-815",
+    "page_count": 12,
+    "file": "20_Peripheral_Nerves_and_Muscles.pdf"
+  },
+  {
+    "chapter": 21,
+    "title": "Central Nervous System and Eye",
+    "source_pdf_pages": "816-875",
+    "page_count": 60,
+    "file": "21_Central_Nervous_System_and_Eye.pdf"
+  },
+  {
+    "chapter": 22,
+    "title": "Skin",
+    "source_pdf_pages": "876-895",
+    "page_count": 20,
+    "file": "22_Skin.pdf"
+  }
+]
