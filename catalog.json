@@ -1,14 +1,202 @@
 {
   "schema_version": 1,
-  "catalog_version": 1,
+  "catalog_version": 2,
   "updated_at": "2026-11-15",
   "subjects": [
-    {"id":"physiology","name":"Physiology","book":"Guyton and Hall","topics":[]},
-    {"id":"anatomy","name":"Anatomy","book":"Snell's Anatomy","topics":[]},
-    {"id":"pathology","name":"Pathology","book":"Robbins Pathology","topics":[]},
-    {"id":"biochemistry","name":"Biochemistry","book":"Lippincott","topics":[]},
-    {"id":"pharmacology","name":"Pharmacology","book":"Lippincott","topics":[]},
-    {"id":"histology","name":"Histology","book":"Junqueira","topics":[]},
-    {"id":"microbiology","name":"Microbiology","book":"Jawetz","topics":[]}
+    {
+      "id": "physiology",
+      "name": "Physiology",
+      "book": "Guyton and Hall",
+      "sections": []
+    },
+    {
+      "id": "anatomy",
+      "name": "Anatomy",
+      "book": "Snell's Anatomy",
+      "sections": []
+    },
+    {
+      "id": "pathology",
+      "name": "Pathology",
+      "book": "Robbins & Kumar Basic Pathology, 11th Edition",
+      "sections": [
+        {
+          "id": "general-pathology",
+          "name": "General Pathology",
+          "chapters": [
+            {
+              "id": "cell-injury-cell-death-adaptations",
+              "name": "Cell Injury, Cell Death, and Adaptations",
+              "description": ""
+            },
+            {
+              "id": "inflammation-and-repair",
+              "name": "Inflammation and Repair",
+              "description": ""
+            },
+            {
+              "id": "hemodynamic-disorders-thromboembolism-shock",
+              "name": "Hemodynamic Disorders, Thromboembolism, and Shock",
+              "description": ""
+            },
+            {
+              "id": "genetic-and-pediatric-diseases",
+              "name": "Genetic and Pediatric Diseases",
+              "description": ""
+            },
+            {
+              "id": "diseases-of-immune-system",
+              "name": "Diseases of the Immune System",
+              "description": ""
+            },
+            {
+              "id": "neoplasia",
+              "name": "Neoplasia",
+              "description": ""
+            },
+            {
+              "id": "environmental-and-nutritional-diseases",
+              "name": "Environmental and Nutritional Diseases",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "id": "cardiovascular-hematolymphoid",
+          "name": "Cardiovascular & Hematolymphoid",
+          "chapters": [
+            {
+              "id": "blood-vessels",
+              "name": "Blood Vessels",
+              "description": ""
+            },
+            {
+              "id": "heart",
+              "name": "Heart",
+              "description": ""
+            },
+            {
+              "id": "hematopoietic-and-lymphoid-systems",
+              "name": "Hematopoietic and Lymphoid Systems",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "id": "respiratory-renal",
+          "name": "Respiratory & Renal",
+          "chapters": [
+            {
+              "id": "lung",
+              "name": "Lung",
+              "description": ""
+            },
+            {
+              "id": "kidney-and-collecting-system",
+              "name": "Kidney and Its Collecting System",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "id": "gastrointestinal-hepatobiliary",
+          "name": "Gastrointestinal & Hepatobiliary",
+          "chapters": [
+            {
+              "id": "oral-cavities-gastrointestinal-tract",
+              "name": "Oral Cavities and Gastrointestinal Tract",
+              "description": ""
+            },
+            {
+              "id": "liver-and-gallbladder",
+              "name": "Liver and Gallbladder",
+              "description": ""
+            },
+            {
+              "id": "pancreas-and-biliary-system",
+              "name": "Pancreas and Biliary System",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "id": "reproductive-endocrine",
+          "name": "Reproductive & Endocrine",
+          "chapters": [
+            {
+              "id": "male-genital-lower-urinary-tract",
+              "name": "Male Genital System and Lower Urinary Tract",
+              "description": ""
+            },
+            {
+              "id": "female-genital-system-and-breast",
+              "name": "Female Genital System and Breast",
+              "description": ""
+            },
+            {
+              "id": "endocrine-system",
+              "name": "Endocrine System",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "id": "musculoskeletal-neuromuscular",
+          "name": "Musculoskeletal & Neuromuscular",
+          "chapters": [
+            {
+              "id": "bones-joints-soft-tissue-tumors",
+              "name": "Bones, Joints, and Soft Tissue Tumors",
+              "description": ""
+            },
+            {
+              "id": "peripheral-nerves-and-muscles",
+              "name": "Peripheral Nerves and Muscles",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "id": "central-nervous-system-skin",
+          "name": "CNS & Skin",
+          "chapters": [
+            {
+              "id": "central-nervous-system",
+              "name": "Central Nervous System",
+              "description": ""
+            },
+            {
+              "id": "skin",
+              "name": "Skin",
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "biochemistry",
+      "name": "Biochemistry",
+      "book": "Lippincott",
+      "sections": []
+    },
+    {
+      "id": "pharmacology",
+      "name": "Pharmacology",
+      "book": "Lippincott",
+      "sections": []
+    },
+    {
+      "id": "histology",
+      "name": "Histology",
+      "book": "Junqueira",
+      "sections": []
+    },
+    {
+      "id": "microbiology",
+      "name": "Microbiology",
+      "book": "Jawetz",
+      "sections": []
+    }
   ]
 }
