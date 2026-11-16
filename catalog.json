@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "catalog_version": 2,
-  "updated_at": "2026-11-15",
+  "catalog_version": 3,
+  "updated_at": "2026-11-16",
   "subjects": [
     {
       "id": "physiology",
@@ -27,37 +27,51 @@
             {
               "id": "cell-injury-cell-death-adaptations",
               "name": "Cell Injury, Cell Death, and Adaptations",
-              "description": ""
+              "description": "",
+              "pdf_file": "01_Cell_Injury_Cell_Death_and_Adaptations.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/01_Cell_Injury_Cell_Death_and_Adaptations.pdf"
             },
             {
               "id": "inflammation-and-repair",
               "name": "Inflammation and Repair",
-              "description": ""
+              "description": "",
+              "pdf_file": "02_Inflammation_and_Repair.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/02_Inflammation_and_Repair.pdf"
             },
             {
               "id": "hemodynamic-disorders-thromboembolism-shock",
               "name": "Hemodynamic Disorders, Thromboembolism, and Shock",
-              "description": ""
+              "description": "",
+              "pdf_file": "03_Hemodynamic_Disorders_Thromboembolism_and_Shock.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/03_Hemodynamic_Disorders_Thromboembolism_and_Shock.pdf"
             },
             {
               "id": "genetic-and-pediatric-diseases",
               "name": "Genetic and Pediatric Diseases",
-              "description": ""
+              "description": "",
+              "pdf_file": "04_Genetic_and_Pediatric_Diseases.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/04_Genetic_and_Pediatric_Diseases.pdf"
             },
             {
               "id": "diseases-of-immune-system",
               "name": "Diseases of the Immune System",
-              "description": ""
+              "description": "",
+              "pdf_file": "05_Diseases_of_the_Immune_System.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/05_Diseases_of_the_Immune_System.pdf"
             },
             {
               "id": "neoplasia",
               "name": "Neoplasia",
-              "description": ""
+              "description": "",
+              "pdf_file": "06_Neoplasia.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/06_Neoplasia.pdf"
             },
             {
               "id": "environmental-and-nutritional-diseases",
               "name": "Environmental and Nutritional Diseases",
-              "description": ""
+              "description": "",
+              "pdf_file": "07_Environmental_and_Nutritional_Diseases.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/07_Environmental_and_Nutritional_Diseases.pdf"
             }
           ]
         },
@@ -68,17 +82,23 @@
             {
               "id": "blood-vessels",
               "name": "Blood Vessels",
-              "description": ""
+              "description": "",
+              "pdf_file": "08_Blood_Vessels.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/08_Blood_Vessels.pdf"
             },
             {
               "id": "heart",
               "name": "Heart",
-              "description": ""
+              "description": "",
+              "pdf_file": "09_Heart.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/09_Heart.pdf"
             },
             {
               "id": "hematopoietic-and-lymphoid-systems",
               "name": "Hematopoietic and Lymphoid Systems",
-              "description": ""
+              "description": "",
+              "pdf_file": "10_Hematopoietic_and_Lymphoid_Systems.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/10_Hematopoietic_and_Lymphoid_Systems.pdf"
             }
           ]
         },
@@ -89,12 +109,16 @@
             {
               "id": "lung",
               "name": "Lung",
-              "description": ""
+              "description": "",
+              "pdf_file": "11_Lung.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/11_Lung.pdf"
             },
             {
               "id": "kidney-and-collecting-system",
               "name": "Kidney and Its Collecting System",
-              "description": ""
+              "description": "",
+              "pdf_file": "12_Kidney.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/12_Kidney.pdf"
             }
           ]
         },
@@ -105,17 +129,23 @@
             {
               "id": "oral-cavities-gastrointestinal-tract",
               "name": "Oral Cavities and Gastrointestinal Tract",
-              "description": ""
+              "description": "",
+              "pdf_file": "13_Oral_Cavity_and_Gastrointestinal_Tract.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/13_Oral_Cavity_and_Gastrointestinal_Tract.pdf"
             },
             {
               "id": "liver-and-gallbladder",
               "name": "Liver and Gallbladder",
-              "description": ""
+              "description": "",
+              "pdf_file": "14_Liver_and_Gallbladder.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/14_Liver_and_Gallbladder.pdf"
             },
             {
               "id": "pancreas-and-biliary-system",
               "name": "Pancreas and Biliary System",
-              "description": ""
+              "description": "",
+              "pdf_file": "15_Pancreas.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/15_Pancreas.pdf"
             }
           ]
         },
@@ -126,17 +156,23 @@
             {
               "id": "male-genital-lower-urinary-tract",
               "name": "Male Genital System and Lower Urinary Tract",
-              "description": ""
+              "description": "",
+              "pdf_file": "16_Male_Genital_System_and_Lower_Urinary_Tract.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/16_Male_Genital_System_and_Lower_Urinary_Tract.pdf"
             },
             {
               "id": "female-genital-system-and-breast",
               "name": "Female Genital System and Breast",
-              "description": ""
+              "description": "",
+              "pdf_file": "17_Female_Genital_System_and_Breast.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/17_Female_Genital_System_and_Breast.pdf"
             },
             {
               "id": "endocrine-system",
               "name": "Endocrine System",
-              "description": ""
+              "description": "",
+              "pdf_file": "18_Endocrine_System.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/18_Endocrine_System.pdf"
             }
           ]
         },
@@ -147,12 +183,16 @@
             {
               "id": "bones-joints-soft-tissue-tumors",
               "name": "Bones, Joints, and Soft Tissue Tumors",
-              "description": ""
+              "description": "",
+              "pdf_file": "19_Bones_Joints_and_Soft_Tissue_Tumors.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/19_Bones_Joints_and_Soft_Tissue_Tumors.pdf"
             },
             {
               "id": "peripheral-nerves-and-muscles",
               "name": "Peripheral Nerves and Muscles",
-              "description": ""
+              "description": "",
+              "pdf_file": "20_Peripheral_Nerves_and_Muscles.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/20_Peripheral_Nerves_and_Muscles.pdf"
             }
           ]
         },
@@ -163,12 +203,16 @@
             {
               "id": "central-nervous-system",
               "name": "Central Nervous System",
-              "description": ""
+              "description": "",
+              "pdf_file": "21_Central_Nervous_System_and_Eye.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/21_Central_Nervous_System_and_Eye.pdf"
             },
             {
               "id": "skin",
               "name": "Skin",
-              "description": ""
+              "description": "",
+              "pdf_file": "22_Skin.pdf",
+              "pdf_url": "https://raw.githubusercontent.com/Imran362-arch/MedMaster-Content/main/Robbins_11e/22_Skin.pdf"
             }
           ]
         }
